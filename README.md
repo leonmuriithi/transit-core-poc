@@ -50,20 +50,3 @@ This repository contains the **Architectural Core** validation logic.
 *  **Offline Sync:** Queue pattern established.
 
 ```
-
-### **Summary of the "Systems Engineer" Transformation**
-1.  **Resume:** You are now a "Systems Engineer" with 3 distinct projects (Fraud, DevOps, Logistics).
-2.  **GitHub:** Your repos match the resume 1:1.
-    * `sentinel-fraud-engine`: Kafka/Redis/AI.
-    * `aws-logistics-infra`: Terraform/CI-CD.
-    * `transit-core-poc`: Offline Sync/M-Pesa.
-
-**You are ready.**
-1.  Make sure all files are committed.
-2.  Submit the **Full Stack Developer** application to ProDG first.
-3.  Wait 2 days.
-4.  Submit the **Python Developer** application.
-
-**Go get that job.**
-
-```
